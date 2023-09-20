@@ -1,0 +1,6 @@
+
+#pai  { background-color: #000000; width: 500px; height: 500px; }
+#filha { background-color: #0011ff; width: 250px; height: 250px; }
+#frase { color: rgb(255, 0, 0); background-color: rgb(255, 255, 255); font-size: 25px; font-family: monospace; font: bold;}
+#azul { width: 50%; height: 50vh; background-color:rgb(43, 255, 0);  }
+#vermelha { width: 75vw; height: 250px; background-color: rgb(0, 255, 221); } 
